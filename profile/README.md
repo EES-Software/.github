@@ -1,3 +1,7 @@
-## EES
+# EES
 
-__EES__ is a startup with a creative software enginners need to make your ideas really in this massive world.
+We 're ready for make your ideas True.
+
+## What we do
+
+We 're a group of createive software enginners that want to build amazin and scalable softwares.
